@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+.content-area {
+  position: relative;
+  width: 100%;
+}
 html, body {
   height: auto;
   min-height: 100%;
